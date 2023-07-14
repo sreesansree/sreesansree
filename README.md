@@ -31,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreesankar-p&show_icons=true&locale=en" alt="sreesankar-p" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreesankar-p&" alt="sreesankar-p" /></p>
+
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/SREESANKAR-P/SREESANKAR-P/blob/output/github-contribution-grid-snake.svg)
