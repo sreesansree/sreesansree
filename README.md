@@ -33,5 +33,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreesankar-p&" alt="sreesankar-p" /></p>
 
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/SREESANKAR-P/SREESANKAR-P/blob/output/github-contribution-grid-snake.svg)
