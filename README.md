@@ -7,7 +7,7 @@
 
 - 🔭 Currently working in BROTOTYPE
 
-- 🌱 Currently learning **MERN STACK**
+- 🌱 Currently learning **MERN-STACK**
 
 - 💬 Ask me about **Mongodb,ExpressJs,ReactJs,NodeJs,Java,C**
 
