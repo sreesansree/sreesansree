@@ -1,4 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Sree Sankar P</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
