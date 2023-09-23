@@ -9,7 +9,7 @@
 
 - 🔭 Currently working in BROTOTYPE
 
-- 🌱 Currently learning **ReactJS**
+- 🌱 Currently learning **MERN**
 
 - 💬 Ask me about **Mongodb,ExpressJs,ReactJs,NodeJs,Java,C**
 
