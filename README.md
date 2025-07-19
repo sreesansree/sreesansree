@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreesankar-p&label=Profile%20views&color=0e75b6&style=flat" alt="sreesankar-p" /> </p>
 
-- 🔭 Currently working in BROTOTYPE
+
 
 - 🌱 Currently learning **NextJs**
 
